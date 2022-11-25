@@ -1,5 +1,5 @@
-INSERT INTO book (ID, author, name, copies) VALUES(1,'Shivam Rajput', 'Wait for class collapse next Friday', 1500) ;
-INSERT INTO book (ID, author, name, copies) VALUES(2,'Arthur Greke', 'Multitasker', 1340);
-INSERT INTO book (ID, author, name, copies) VALUES(3,'Daniils Grammatikopulo', 'masochist on c++', 2160);
-INSERT INTO book (ID, author, name, copies) VALUES(3,'Oleg Ivanov', 'Java <3', 2160);
-INSERT INTO book (ID, author, name, copies) VALUES(3,'Daniils Buts', 'Crazy programmer', 2160);
+INSERT INTO book (ID, author, name, copies) VALUES(1, "Dumas", "The Count of Monte Cristo", 1245);
+INSERT INTO book (ID, author, name, copies) VALUES(2, "Shakespeare", "Romeo and Juliet", 4500);
+INSERT INTO book (ID, author, name, copies) VALUES(3, "Austen", "Pride and Prejudice", 1000);
+INSERT INTO book (ID, author, name, copies) VALUES(4, "Swift", "Gulliver's Travels", 1000);
+INSERT INTO book (ID, author, name, copies) VALUES(5, "Tolstoy", "War and Peace", 1000);
