@@ -5,4 +5,4 @@
 <br>
 <h2>To find student by id</h2>
 <a href="http://localhost:8080/getStudent?id=1">http://localhost:8080/getStudent?id=1</a>
-<img src="https://user-images.githubusercontent.com/65315002/204093477-852f92bc-aa45-4df9-a993-6256a2a5de2e.png">
+<img src="![image](https://user-images.githubusercontent.com/65315002/204093532-f9f95118-8254-444f-998a-6d42d7cd04a7.png)">
