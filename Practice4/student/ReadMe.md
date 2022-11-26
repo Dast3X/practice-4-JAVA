@@ -1,6 +1,6 @@
 <h1>Usage</h1>
-<p>To find all students</p>
+<h2>To find all students</h2>
 <a href="http://localhost:8080/getStudents">http://localhost:8080/getStudents</a>
 <br>
-<p>To find student by id</p>
+<h2>To find student by id</h2>
 <a href="http://localhost:8080/getStudent?id=1">http://localhost:8080/getStudent?id=1</a>
